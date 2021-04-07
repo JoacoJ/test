@@ -1,1 +1,1 @@
-Soy el fichero B
+Soy el fichero B y esto es una cmodificacion para comparacion
